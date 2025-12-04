@@ -26,7 +26,7 @@ public class BankMain {
         public static void main(String[] args) {
 
             String name;
-            int current_amt,min,creadit,debit;
+            int min,creadit,debit;
             Scanner bm = new Scanner(System.in);
             System.out.print("Enter your name : " );
             name=bm.nextLine();
